@@ -1,1 +1,97 @@
-here
+body {
+	background-color: white;
+	background-size: 200px;
+	background-image: no-repeat;
+}
+
+.clear {
+	clear: both;
+}
+
+header {
+	background: url(../img/pawprint.jpg);
+	text-align: center;
+	background-color: ;
+	padding: 30px 0;
+}
+
+h1 {
+    font-size: 50px;
+    color: #7c26cb;
+    background-color: ;
+    font: bold;
+}
+h2 {
+	background-color:;
+	color: yellow;
+}
+h3{
+	text-align: center;
+	color: yellow;
+	padding: 10px;
+	font-size: 50px;
+}
+p{
+	color: #8000FF;
+	font-size: 20px;
+	padding: 10px 0;
+	background-color: white;
+}
+img#img-1{
+	width: 80%;
+	height: auto;
+	padding: 50px 0;
+}
+
+.first .img-wrap {
+	float: left;
+	width: 60%;
+}
+
+.first .list-wrap {
+	float: left;
+	width: 40%;
+	font-size: 25px;
+}
+h4{
+	color: #32CD32;
+	padding: 15px;
+	font-size: 40px;
+	float: left;
+}
+li{
+	float: ;
+	font-size: 20px;
+	color: #FF0009;
+	padding: 20px;
+}
+.second .img-wrap{
+	float: right;
+	width: 40%;
+}
+
+.third .img-wrap-three {
+    width: 31%;
+    float: left;
+    height: 40px;
+}
+
+.third .text-wrap {
+	width: 64%;
+	padding-left: 5%;
+	float: left;
+}
+
+.third .img-wrap-three img {
+    width: 100%;
+}
+
+h5 {
+	color: #FF8C00;
+	font-size: 30px;
+}
+p2 {
+	color: #37FDFC;
+	font-size: 20px;
+	padding: 10px;
+}
